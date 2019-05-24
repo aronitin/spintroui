@@ -1,3 +1,4 @@
 # spintroui
 # SCN
 # Hello
+# nginx
