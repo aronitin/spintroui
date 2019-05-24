@@ -5,3 +5,4 @@ test3
 test4 - testing wait stage
 test5 - testing manual stage
 testing deploy manifest stage
+testing - bake and deploy
