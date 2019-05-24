@@ -1,3 +1,3 @@
 # spintroui
 
-Update readme
+Update 2 readme
