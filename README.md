@@ -1,3 +1,1 @@
 # spintroui
-
-wirehead
