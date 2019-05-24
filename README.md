@@ -1,2 +1,3 @@
 # spintroui
 # spintrdemo
+# spinttrdeploy
