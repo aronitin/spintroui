@@ -1,3 +1,3 @@
 karateAMD
 
-Testing bake and deploy for AWS.
+Starting advanced training.
